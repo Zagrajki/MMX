@@ -1,0 +1,4 @@
+Kompilacja: gcc zad5c.c zad5s.s -lpng -m32 -o zad5
+Przykladowe uruchomienie: ./zad5 lion2.png > wyniki.txt
+
+
